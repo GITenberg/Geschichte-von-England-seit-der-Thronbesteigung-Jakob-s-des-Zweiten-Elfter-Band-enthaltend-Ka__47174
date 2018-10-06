@@ -25,6 +25,8 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Geschichte von England seit der Thronbesteigung Jakob''s des Zweiten.
 
   Elfter Band: enthaltend Kapitel 21 und 22.'
